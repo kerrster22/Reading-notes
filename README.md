@@ -1,10 +1,15 @@
 # Reading-notes
 ## About me 
 Hi my name is **Hayden** i have been working in property maintenance for 7 years.
+I love going on holiday my favorite places are.
++ Florida 
++ Norway
++ Maderia
++ ![PROFILE PIC (1)](https://user-images.githubusercontent.com/122727431/212672266-863e5b32-c319-425c-ab9b-5ccfd5588dc6.jpg)
+
 ## What i enjoy
-I am a film buff with a large bluray collection. 
-![film collection](https://user-images.githubusercontent.com/122727431/212669511-08562a40-89f4-4a9a-ad1f-8d56572659f5.jpg | width=100)
-i also play table tennis for a league.
+I am a film buff with a large bluray collection. I also play table tennis.  
+![film collection (1)](https://user-images.githubusercontent.com/122727431/212671425-7d32fe2d-72b9-4433-8e36-82cf59db2a04.jpg)
 ## Growth mindset
 Growth mind set is someone who believes that you can learn anything if you put your mind to it. 
 ### How to keep myself in the growth mindset
@@ -13,6 +18,6 @@ Growth mind set is someone who believes that you can learn anything if you put y
 3. don't be afraid to ask questions.
 
 #### Contact me
-![PROFILE PIC](https://user-images.githubusercontent.com/122727431/212668353-54f3a7e6-5dc7-4e76-8593-d8a8cd65bb24.jpg)
 + Email healyidsehna@hotmail.co.uk
+
 
