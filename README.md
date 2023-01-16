@@ -3,7 +3,7 @@
 Hi my name is **Hayden** i have been working in property maintenance for 7 years.
 ## What i enjoy
 I am a film buff with a large bluray collection. 
-![film collection](https://user-images.githubusercontent.com/122727431/212669511-08562a40-89f4-4a9a-ad1f-8d56572659f5.jpg =400x400)
+![film collection](https://user-images.githubusercontent.com/122727431/212669511-08562a40-89f4-4a9a-ad1f-8d56572659f5.jpg | width=100)
 i also play table tennis for a league.
 ## Growth mindset
 Growth mind set is someone who believes that you can learn anything if you put your mind to it. 
