@@ -13,9 +13,9 @@ I am a film buff with a large bluray collection. I also play table tennis.
 ## Growth mindset
 Growth mind set is someone who believes that you can learn anything if you put your mind to it. 
 ### How to keep myself in the growth mindset
-1. consistancy is key to learning long term.
-2. be open to new ideas.
-3. don't be afraid to ask questions.
+1. *consistancy is key to learning long term.*
+2. *be open to new ideas.*
+3. *don't be afraid to ask questions.*
 
 #### Contact me
 + Email healyidsehna@hotmail.co.uk
