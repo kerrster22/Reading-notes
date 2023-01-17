@@ -1,6 +1,6 @@
 # Reading-notes
 ## Table of contents
-![102 notes](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-1)
+[102 notes](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-1)
 ## About me 
 Hi my name is **Hayden** i have been working in property maintenance for 7 years.
 I love going on holiday my favorite places are.
