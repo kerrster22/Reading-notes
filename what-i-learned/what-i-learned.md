@@ -14,11 +14,3 @@ things i have learnt from git
 10. Git remote -v this shows the push and fetch with the link to the site you have made on git pages.
 11. Code .  this takes you to vscode its very quick and send you to the site file so you can edit.
 12. (..) this make you go back 1 on the terminal
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
