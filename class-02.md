@@ -1,4 +1,5 @@
 # class 02 1/17/2023
+
 Reading notes for canvas :)
 
 ## the syntax for markdown 
