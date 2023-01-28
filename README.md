@@ -1,32 +1,30 @@
 # Reading-notes
 ## Table of contents
-<div>
-*[102 notes-1](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-1)
-*[102 notes-2](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-2)
-*[102 notes-3](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-3)
-*[102 notes-4](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-4)
-*[102 notes-5](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-5)
-*[102 notes-6](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-6)
-*[102 notes-7](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-7)
-*[102 notes-8](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-8)
-</div>
-<div>
-*[201 notes-1](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-1)
-*[201 notes-2](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-2)
-*[201 notes-3](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-3)
-*[201 notes-4](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-4)
-*[201 notes-5](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-5)
-*[201 notes-6](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-6)
-*[201 notes-7](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-7)
-*[201 notes-8](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-8)
-*[201 notes-9](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-9)
-*[201 notes-10](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-10)
-*[201 notes-11](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-11)
-*[201 notes-12](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-12)
-*[201 notes-13](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-13)
-*[201 notes-14](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-14)
-*[201 notes-15](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-15)
-</div>
+* [102 notes-1](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-1)
+* [102 notes-2](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-2)
+* [102 notes-3](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-3)
+* [102 notes-4](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-4)
+* [102 notes-5](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-5)
+* [102 notes-6](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-6)
+* [102 notes-7](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-7)
+* [102 notes-8](https://kerrster22.github.io/Reading-notes/102-notes/102-notes-8)
+
+* [201 notes-1](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-1)
+* [201 notes-2](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-2)
+* [201 notes-3](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-3)
+* [201 notes-4](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-4)
+* [201 notes-5](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-5)
+* [201 notes-6](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-6)
+* [201 notes-7](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-7)
+* [201 notes-8](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-8)
+* [201 notes-9](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-9)
+* [201 notes-10](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-10)
+* [201 notes-11](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-11)
+* [201 notes-12](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-12)
+* [201 notes-13](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-13)
+* [201 notes-14](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-14)
+* [201 notes-15](https://kerrster22.github.io/Reading-notes/201-notes/201-notes-15)
+
 ## About me 
 Hi my name is **Hayden** i have been working in property maintenance for 7 years.
 I love going on holiday my favorite places are.
